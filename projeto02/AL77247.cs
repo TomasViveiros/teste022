@@ -1,8 +1,9 @@
 ﻿using System;
 
-public class Class1
+public class AL77247
 {
-	public Class1()
+	public Aplicacao()
 	{
+		Consele.WriteLine("AL77247");
 	}
 }
